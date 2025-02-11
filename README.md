@@ -34,6 +34,11 @@ Each word will produce three images:
 - `{timestamp}_{Word}_cap.png` (capitalized)
 - `{timestamp}_{WORD}_up.png` (uppercase)
 
+## Creative Possibilities
+If you're creative, you can stack or tile the generated images together in a larger composition, as shown in the example below:
+
+![Creative Idea](creativeIdea.png)
+
 ## Example
 If the input word is `hello`, the script will generate:
 - `20250211_hello_small.png`
@@ -42,4 +47,3 @@ If the input word is `hello`, the script will generate:
 
 ## License
 This project is open-source under the MIT License. Feel free to modify and expand it!
-
